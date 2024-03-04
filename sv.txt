@@ -1,0 +1,6 @@
+Grupul 2 are urmatoarea structura: 
+Utilizatori: 
+Id: 5 Nume: fty Nume utilizator: tyfth Parola: hgf
+Drepturi: 
+Full Control
+

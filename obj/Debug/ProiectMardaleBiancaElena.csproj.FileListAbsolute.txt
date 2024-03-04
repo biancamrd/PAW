@@ -1,0 +1,15 @@
+C:\Users\ebibu\source\repos\PAW\ProiectMardaleBiancaElena\obj\Debug\ProiectMardaleBiancaElena.csproj.AssemblyReference.cache
+C:\Users\ebibu\source\repos\PAW\ProiectMardaleBiancaElena\obj\Debug\ProiectMardaleBiancaElena.Form1.resources
+C:\Users\ebibu\source\repos\PAW\ProiectMardaleBiancaElena\obj\Debug\ProiectMardaleBiancaElena.Properties.Resources.resources
+C:\Users\ebibu\source\repos\PAW\ProiectMardaleBiancaElena\obj\Debug\ProiectMardaleBiancaElena.csproj.GenerateResource.cache
+C:\Users\ebibu\source\repos\PAW\ProiectMardaleBiancaElena\obj\Debug\ProiectMardaleBiancaElena.csproj.CoreCompileInputs.cache
+C:\Users\ebibu\source\repos\PAW\ProiectMardaleBiancaElena\bin\Debug\ProiectMardaleBiancaElena.exe.config
+C:\Users\ebibu\source\repos\PAW\ProiectMardaleBiancaElena\bin\Debug\ProiectMardaleBiancaElena.exe
+C:\Users\ebibu\source\repos\PAW\ProiectMardaleBiancaElena\bin\Debug\ProiectMardaleBiancaElena.pdb
+C:\Users\ebibu\source\repos\PAW\ProiectMardaleBiancaElena\obj\Debug\ProiectMardaleBiancaElena.exe
+C:\Users\ebibu\source\repos\PAW\ProiectMardaleBiancaElena\obj\Debug\ProiectMardaleBiancaElena.pdb
+C:\Users\ebibu\source\repos\PAW\ProiectMardaleBiancaElena\obj\Debug\ProiectMardaleBiancaElena.Form2.resources
+C:\Users\ebibu\source\repos\PAW\ProiectMardaleBiancaElena\obj\Debug\ProiectMardaleBiancaElena.Form3.resources
+C:\Users\ebibu\Downloads\Proiect Mardale Bianca-Elena (1)\ProiectMardaleBiancaElena\obj\Debug\ProiectMardaleBiancaElena.csproj.AssemblyReference.cache
+C:\Users\ebibu\Downloads\Proiect Mardale Bianca-Elena (1)\ProiectMardaleBiancaElena\obj\Debug\ProiectMardaleBiancaElena.exe
+C:\Users\ebibu\Downloads\Proiect Mardale Bianca-Elena (1)\ProiectMardaleBiancaElena\obj\Debug\ProiectMardaleBiancaElena.pdb
